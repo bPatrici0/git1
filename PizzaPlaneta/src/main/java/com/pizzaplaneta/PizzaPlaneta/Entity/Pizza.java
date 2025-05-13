@@ -21,5 +21,5 @@ public class Pizza {
     private String descripcion;
     private double precio;
     private boolean disponible;
-    private String imagen;
+    private String color;
 }
