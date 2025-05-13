@@ -22,4 +22,11 @@ public class Pizza {
     private double precio;
     private boolean disponible;
     private String color;
+
+    public Pizza(Long id, String nombre, double precio, String color) {
+        this.id = id;
+        this.nombre = nombre;
+        this.precio = precio;
+        this.color = color;
+    }
 }
