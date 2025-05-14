@@ -18,7 +18,6 @@ public class Bebidas {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nombre;
-    private String sabor;
     private double precio;
 
 }
