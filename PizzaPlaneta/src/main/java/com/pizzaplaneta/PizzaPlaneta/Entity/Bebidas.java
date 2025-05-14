@@ -19,6 +19,7 @@ public class Bebidas {
     private Long id;
     private String nombre;
     private double precio;
+    private String sabor;
 
     public String compra(Long id){
         return "Comprado";
