@@ -20,4 +20,8 @@ public class Bebidas {
     private String nombre;
     private double precio;
 
+    public String compra(Long id){
+        return "Comprado";
+    }
+
 }
