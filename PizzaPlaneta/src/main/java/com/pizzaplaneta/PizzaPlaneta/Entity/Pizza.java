@@ -30,5 +30,5 @@ public class Pizza {
         this.precio = precio;
         this.color = color;
 
-    }
+    } 
 }

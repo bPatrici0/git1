@@ -25,4 +25,8 @@ public class Bebidas {
         return "Prueba";
     }
 
+    public String compra(Long id){
+        return "Comprado";
+    }
+
 }
