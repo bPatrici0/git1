@@ -26,7 +26,7 @@ public class Bebidas {
     }
 
     public String compra(Long id){
-        return "Comprado";
+        return "Comprado de bebidas";
     }
 
 }
