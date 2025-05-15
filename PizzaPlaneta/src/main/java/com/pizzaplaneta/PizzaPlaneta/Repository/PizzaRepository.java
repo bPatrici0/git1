@@ -1,5 +1,6 @@
 package com.pizzaplaneta.PizzaPlaneta.Repository;
 
+import com.pizzaplaneta.PizzaPlaneta.DTO.PersonaDTO;
 import com.pizzaplaneta.PizzaPlaneta.Entity.Pizza;
 
 import java.util.List;
